@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=$2 nohup  python train.py --config_name $1 &
